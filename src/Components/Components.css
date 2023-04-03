@@ -1,0 +1,61 @@
+label{
+    font-size: 20px;
+}
+input[type="text"]{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 40px;
+    border: 2px solid black;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+input[type="number"]{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 40px;
+    border: 2px solid black;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+.input-fields{
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+}
+button{
+    width: 180px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(82, 140, 121);
+    margin-left: 100px;
+    margin-bottom: 170px;
+    font-size: 20px;
+}
+.main{
+    margin-left: 5px;
+    margin-top: 70px;
+    margin-bottom: 105px;
+    width: 99%;
+    border: 5px solid black;
+    background-color: rgb(72, 87, 82);
+    display: flex;
+    flex-wrap: wrap;
+}
+.main_1{
+    width: 35%;
+    text-align: center;
+    background-color: rgb(211, 122, 137);
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 30px 65px;
+}
+p{
+    font-size: large;
+    font-weight: 800;
+    margin: 30px;
+}
